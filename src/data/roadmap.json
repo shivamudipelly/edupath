@@ -1,0 +1,30 @@
+{
+    "Full Stack": [
+        "HTML & CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Databases"
+    ],
+    "AI/ML": [
+        "Python",
+        "Numpy & Pandas",
+        "ML Algorithms",
+        "Deep Learning",
+        "Projects"
+    ],
+    "UI/UX": [
+        "Design Principles",
+        "Wireframing",
+        "Figma",
+        "Prototyping",
+        "Portfolio"
+    ],
+    "Data Science": [
+        "Python",
+        "Statistics",
+        "SQL",
+        "Data Visualization",
+        "Machine Learning"
+    ]
+}

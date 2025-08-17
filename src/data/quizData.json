@@ -1,0 +1,1807 @@
+{
+    "meta": {
+        "title": "Tech Domain Discovery Quiz",
+        "description": "Discover your ideal technology career path",
+        "totalQuestions": 50,
+        "estimatedTime": "7-10 minutes",
+        "domains": {
+            "fullstack": "Full Stack Development",
+            "aiml": "AI/ML Engineering",
+            "uiux": "UI/UX Design",
+            "data": "Data Science",
+            "cyber": "Cybersecurity"
+        }
+    },
+    "questions": [
+        {
+            "id": "q1",
+            "question": "When starting a new project, you typically:",
+            "options": [
+                {
+                    "text": "Focus on how users will interact with it",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Plan the data flow and architecture",
+                    "domains": [
+                        "fullstack",
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Consider potential security risks",
+                    "domains": [
+                        "cyber"
+                    ]
+                },
+                {
+                    "text": "Think about algorithmic efficiency",
+                    "domains": [
+                        "aiml"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "question": "Which type of book would you find most interesting?",
+            "options": [
+                {
+                    "text": "Human-computer interaction design",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building scalable web applications",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Machine learning patterns",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data visualization techniques",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Network security protocols",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "question": "Your strongest skill is:",
+            "options": [
+                {
+                    "text": "Creating intuitive user flows",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Connecting different technologies",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Recognizing patterns in data",
+                    "domains": [
+                        "aiml",
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Identifying potential system weaknesses",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "question": "What excites you most about technology?",
+            "options": [
+                {
+                    "text": "Making complex systems easy to use",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building complete solutions from scratch",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Teaching computers to learn",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Extracting insights from information",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Protecting digital assets",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "question": "In a team project, you naturally:",
+            "options": [
+                {
+                    "text": "Design the user experience",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Ensure all components work together",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Optimize the algorithms",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Analyze the results",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Check for security flaws",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "question": "Which activity sounds most appealing?",
+            "options": [
+                {
+                    "text": "Creating a beautiful dashboard",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Developing a REST API",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Training a neural network",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Cleaning a dataset",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Conducting a penetration test",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "question": "Your ideal weekend project would be:",
+            "options": [
+                {
+                    "text": "Redesigning a popular app's interface",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building a personal website with custom features",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Implementing a recommendation algorithm",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Analyzing your personal fitness data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Testing your home network security",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "question": "Which class would you enjoy most?",
+            "options": [
+                {
+                    "text": "Human-Centered Design",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Web Application Development",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Deep Learning Fundamentals",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Statistical Analysis",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Ethical Hacking",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q9",
+            "question": "When troubleshooting, you first:",
+            "options": [
+                {
+                    "text": "Check the user experience flow",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Examine how components interact",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Review the algorithm logic",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Inspect the data inputs",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Look for security vulnerabilities",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q10",
+            "question": "Your favorite part of development is:",
+            "options": [
+                {
+                    "text": "Creating pixel-perfect interfaces",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Making frontend and backend communicate",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Improving model accuracy",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Finding correlations in data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Closing security loopholes",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q11",
+            "question": "Which tool excites you most?",
+            "options": [
+                {
+                    "text": "Figma/Sketch",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "React/Node.js",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "TensorFlow/PyTorch",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Pandas/Tableau",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Wireshark/Metasploit",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q12",
+            "question": "You get most frustrated when:",
+            "options": [
+                {
+                    "text": "Users can't figure out how to use something",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "APIs don't communicate properly",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Models don't converge",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data is messy or incomplete",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Systems have obvious vulnerabilities",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q13",
+            "question": "Your ideal mentor would be a:",
+            "options": [
+                {
+                    "text": "Senior Product Designer",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Lead Full Stack Engineer",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Machine Learning Researcher",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Chief Data Officer",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Chief Information Security Officer",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q14",
+            "question": "You're most proud when you:",
+            "options": [
+                {
+                    "text": "See users enjoying your design",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Get all system components working together",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Achieve high model accuracy",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Discover an important insight",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Prevent a potential breach",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q15",
+            "question": "Which conference would you attend?",
+            "options": [
+                {
+                    "text": "Interaction Design Summit",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Web Development Conference",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Neural Information Processing Systems",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data Science Festival",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Black Hat Security Conference",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q16",
+            "question": "Your approach to learning is:",
+            "options": [
+                {
+                    "text": "Studying user behavior patterns",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building projects end-to-end",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Implementing complex algorithms",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Analyzing real-world datasets",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Understanding system vulnerabilities",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q17",
+            "question": "Which problem is most rewarding to solve?",
+            "options": [
+                {
+                    "text": "Making technology accessible to everyone",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Connecting disparate systems",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Teaching computers to recognize patterns",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Finding meaning in chaotic data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Protecting against unknown threats",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q18",
+            "question": "Your GitHub is full of:",
+            "options": [
+                {
+                    "text": "Design system components",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Full application repositories",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "ML experiment notebooks",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data analysis scripts",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security testing tools",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q19",
+            "question": "You geek out about:",
+            "options": [
+                {
+                    "text": "Typography and color theory",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "New JavaScript frameworks",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Latest AI research papers",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data visualization techniques",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Zero-day vulnerabilities",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q20",
+            "question": "Your ideal job title would be:",
+            "options": [
+                {
+                    "text": "UX Designer",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Full Stack Developer",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Machine Learning Engineer",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data Scientist",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security Analyst",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q21",
+            "question": "When browsing an app, you notice:",
+            "options": [
+                {
+                    "text": "Inconsistent design patterns",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "API response times",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Recommendation algorithm quality",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data presentation accuracy",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Potential security warnings",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q22",
+            "question": "Your ideal workspace has:",
+            "options": [
+                {
+                    "text": "Sketchpads and design books",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Multiple monitors for coding",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Powerful GPU for training models",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Large screens for data visualization",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security monitoring displays",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q23",
+            "question": "You enjoy reading about:",
+            "options": [
+                {
+                    "text": "Design psychology",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "System architecture",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Emergent AI capabilities",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data-driven decision making",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Latest cyber attacks",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q24",
+            "question": "Your strength is:",
+            "options": [
+                {
+                    "text": "Empathizing with users",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Seeing the big technical picture",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Mathematical modeling",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Pattern recognition",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Thinking like an attacker",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q25",
+            "question": "Which challenge excites you?",
+            "options": [
+                {
+                    "text": "Reducing user onboarding time",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Scaling to millions of users",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Beating human performance at a task",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Predicting future trends accurately",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Finding vulnerabilities before hackers",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q26",
+            "question": "Your favorite website is:",
+            "options": [
+                {
+                    "text": "Dribbble/Behance",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "GitHub/Stack Overflow",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "ArXiv/KDnuggets",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "FiveThirtyEight/Our World in Data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Krebs on Security/Hacker News",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q27",
+            "question": "You spend free time:",
+            "options": [
+                {
+                    "text": "Redesigning apps for fun",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building personal projects",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Experimenting with new ML models",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Analyzing personal data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Participating in CTF challenges",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q28",
+            "question": "Your ideal team role is:",
+            "options": [
+                {
+                    "text": "Advocating for users",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Technical glue between components",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Implementing intelligent systems",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Deriving insights from data",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Ensuring system security",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q29",
+            "question": "You value:",
+            "options": [
+                {
+                    "text": "Aesthetics and usability",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Functionality and reliability",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Innovation and intelligence",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Accuracy and insights",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security and privacy",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q30",
+            "question": "Your debugging approach is:",
+            "options": [
+                {
+                    "text": "User testing sessions",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Systematic component isolation",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Algorithmic step-through",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data validation checks",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Attack surface analysis",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q31",
+            "question": "Which metric matters most?",
+            "options": [
+                {
+                    "text": "User satisfaction scores",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "System uptime percentage",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Model accuracy rates",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data prediction accuracy",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Vulnerabilities patched",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q32",
+            "question": "Your notebook contains:",
+            "options": [
+                {
+                    "text": "UI sketches and flow diagrams",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "System architecture diagrams",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Algorithm pseudocode",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data correlations and trends",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security threat models",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q33",
+            "question": "You admire:",
+            "options": [
+                {
+                    "text": "Dieter Rams (designer)",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Linus Torvalds (developer)",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Geoffrey Hinton (AI pioneer)",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Nate Silver (statistician)",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Kevin Mitnick (hacker)",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q34",
+            "question": "Your superpower is:",
+            "options": [
+                {
+                    "text": "Anticipating user needs",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Making technologies work together",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Teaching machines to learn",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Seeing patterns in chaos",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Thinking like a hacker",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q35",
+            "question": "Which task would you enjoy?",
+            "options": [
+                {
+                    "text": "Conducting user interviews",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Debugging a full stack issue",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Tuning hyperparameters",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Cleaning a messy dataset",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Auditing code for vulnerabilities",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q36",
+            "question": "Your ideal project has:",
+            "options": [
+                {
+                    "text": "Complex user experience challenges",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Interesting technical integration problems",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Novel machine learning applications",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Rich datasets to explore",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security puzzles to solve",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q37",
+            "question": "You cringe when you see:",
+            "options": [
+                {
+                    "text": "Poorly designed interfaces",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Spaghetti code connecting systems",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Naive machine learning implementations",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Misleading data visualizations",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Unencrypted sensitive data",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q38",
+            "question": "Your ideal company is:",
+            "options": [
+                {
+                    "text": "A design-forward product company",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "A tech-driven startup",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "An AI research lab",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "A data-driven organization",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "A cybersecurity firm",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q39",
+            "question": "You believe technology should:",
+            "options": [
+                {
+                    "text": "Be invisible and intuitive",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Solve real problems efficiently",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Augment human capabilities",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Reveal hidden truths",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Protect people's digital lives",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q40",
+            "question": "Your contribution would be:",
+            "options": [
+                {
+                    "text": "Making products enjoyable to use",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Building robust systems",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Creating intelligent solutions",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Uncovering valuable insights",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Ensuring safe systems",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q41",
+            "question": "Which meetup would you attend?",
+            "options": [
+                {
+                    "text": "Design Thinking Workshop",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Full Stack Development Talks",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Machine Learning Study Group",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data Science Networking",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security Hack Night",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q42",
+            "question": "Your ideal workday includes:",
+            "options": [
+                {
+                    "text": "User testing sessions",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Coding across the stack",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Training and evaluating models",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Exploring datasets",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security assessments",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q43",
+            "question": "You're fascinated by:",
+            "options": [
+                {
+                    "text": "Human psychology in design",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Emerging web technologies",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Theoretical foundations of AI",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Statistical anomalies",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Exploit techniques",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q44",
+            "question": "Your ideal tool would:",
+            "options": [
+                {
+                    "text": "Help create better user experiences",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Simplify full stack development",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Make ML more accessible",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Reveal data insights faster",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Automate security testing",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q45",
+            "question": "Your proudest moment would be:",
+            "options": [
+                {
+                    "text": "Seeing users love your design",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Launching a complex system",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Achieving breakthrough model performance",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Predicting an important trend",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Preventing a major security breach",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q46",
+            "question": "You enjoy discussing:",
+            "options": [
+                {
+                    "text": "User psychology",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "System architecture",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Emerging AI capabilities",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data storytelling",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security threats",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q47",
+            "question": "Your ideal learning resource is:",
+            "options": [
+                {
+                    "text": "Design case studies",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Full stack tutorials",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "ML research papers",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data analysis walkthroughs",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security CTF writeups",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q48",
+            "question": "You get energy from:",
+            "options": [
+                {
+                    "text": "Seeing users engage with your work",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Solving complex technical challenges",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Pushing the boundaries of automation",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Discovering hidden data truths",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Outsmarting potential threats",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q49",
+            "question": "Your ideal project timeline includes:",
+            "options": [
+                {
+                    "text": "Iterative user testing",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "End-to-end implementation",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Model training and evaluation",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Data exploration phase",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Security review cycles",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "q50",
+            "question": "Technology's most important role is:",
+            "options": [
+                {
+                    "text": "Creating seamless human experiences",
+                    "domains": [
+                        "uiux"
+                    ]
+                },
+                {
+                    "text": "Solving practical problems",
+                    "domains": [
+                        "fullstack"
+                    ]
+                },
+                {
+                    "text": "Augmenting human intelligence",
+                    "domains": [
+                        "aiml"
+                    ]
+                },
+                {
+                    "text": "Revealing objective truths",
+                    "domains": [
+                        "data"
+                    ]
+                },
+                {
+                    "text": "Protecting digital freedoms",
+                    "domains": [
+                        "cyber"
+                    ]
+                }
+            ]
+        }
+    ]
+}
